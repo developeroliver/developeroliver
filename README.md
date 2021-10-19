@@ -4,6 +4,7 @@
   - 📲  Mobile apps
   - 💥  Star Wars
   - 🎮  PS4 gaming
+  - ⚽️  Manchester United
   - 📺  Movie & Series
 - 🌱 I’m currently learning Flutter, React Native and Design
 - 💞️ I’m looking to collaborate on ...
