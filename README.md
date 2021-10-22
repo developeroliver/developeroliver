@@ -6,7 +6,7 @@
   - 🎮  PS4 gaming
   - ⚽️  Manchester United
   - 📺  Movie & Series
-- 🌱 I’m currently learning Flutter, React Native and Design
+- 🌱 I’m currently learning Flutter and Design
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : developeroliver.flutter@gmail.com
 
