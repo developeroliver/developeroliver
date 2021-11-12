@@ -9,7 +9,7 @@
   - 📺  Movie & Series
 - 🌱 I’m currently learning React-Native
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : developeroliver.flutter@gmail.com
+- 📫 How to reach me : developeroliver.reactnative@gmail.com
 
 <!---
 developeroliver/developeroliver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
