@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @developeroliver as Oliver
-- React/Redux developer
+- a mobile developer
 - 👀 I’m interested in 
   - 👨🏼‍🎨  Design
   - 📲  Mobile apps
@@ -7,9 +7,9 @@
   - 🎮  PS4 gaming
   - ⚽️  Arsenal FC
   - 📺  Movie & Series
-- 🌱 I’m currently learning React-Native
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : developeroliver.reactnative@gmail.com
+- 📫 How to reach me : developeroliver.flutter@gmail.com
 
 <!---
 developeroliver/developeroliver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
