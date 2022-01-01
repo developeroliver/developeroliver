@@ -7,9 +7,9 @@
   - 🎮  PS4 gaming
   - ⚽️  Arsenal FC
   - 📺  Movie & Series
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Flutter & React Native
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : developeroliver.flutter@gmail.com
+- 📫 How to reach me : developpeur.olive@gmail.com
 
 <!---
 developeroliver/developeroliver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
