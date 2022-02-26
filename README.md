@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @developeroliver as Oliver
+- 👋 Hi, I’m @developpeur.olive as Oliver
 - a mobile developer
 - 👀 I’m interested in 
   - 👨🏼‍🎨  Design
@@ -7,7 +7,7 @@
   - 🎮  PS4 gaming
   - ⚽️  Arsenal FC
   - 📺  Movie & Series
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning React-Native
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : developpeur.olive@gmail.com
 
