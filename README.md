@@ -15,7 +15,7 @@
 
 
 
-![Rivaan's github stats](https://github-readme-stats.vercel.app/api?username=developer.oliver&show_icons=true&theme=react)
+![Rivaan's github stats](https://github-readme-stats.vercel.app/api?username=developeroliver&show_icons=true&theme=react)
 ## 🚀 About Me
 I am in professional reconversion. I did a bootcamp at o'clock as a web and mobile web developer with React specialization.
 
