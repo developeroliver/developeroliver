@@ -6,7 +6,7 @@
   - 💥  Star Wars
   - 🎮  PS4 gaming
   - ⚽️  Arsenal FC
-  - 🔗  Flutter
+  - 🔗  React & React-Native
   - 📺  Movie & Series
 - 🌱 I’m currently learning React and React-Native
 - 💞️ I’m looking to collaborate on ...
