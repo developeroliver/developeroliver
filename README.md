@@ -8,7 +8,7 @@
   - ⚽️  Arsenal FC
   - 🔗  Flutter
   - 📺  Movie & Series
-- 🌱 I’m currently learning Flutter and Nodejs
+- 🌱 I’m currently learning React and React-Native
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : developpeur.olive@gmail.com
 
@@ -26,4 +26,4 @@ I am in professional reconversion. I did a bootcamp at o'clock as a web and mobi
 
 
 ## 🛠 Skills
-Flutter, Dart, Firebase, Node, MongoDB
+React, React-Native, Firebase, Node, MongoDB
