@@ -6,9 +6,9 @@
   - 💥  Star Wars
   - 🎮  PS4 gaming
   - ⚽️  Arsenal FC
-  - 🔗  React & React-Native
+  - 🔗  flutter
   - 📺  Movie & Series
-- 🌱 I’m currently learning React and React-Native
+- 🌱 I’m currently learning flutter and firebase
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : developpeur.olive@gmail.com
 
