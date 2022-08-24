@@ -26,4 +26,4 @@ I am in professional reconversion. I did a bootcamp at o'clock as a web and mobi
 
 
 ## 🛠 Skills
-React, React-Native, Firebase, Node, MongoDB
+Flutter, Firebase, Node, MongoDB
