@@ -6,7 +6,7 @@
   - 💥  Star Wars
   - 🎮  PS4 gaming
   - ⚽️  Arsenal FC
-  - 🔗  react-native
+  - 🔗  flutter
   - 📺  Movie & Series
 - 🌱 I’m currently learning react-native and firebase
 - 💞️ I’m looking to collaborate on ...
@@ -26,4 +26,4 @@ I am in professional reconversion. I did a bootcamp at o'clock as a web and mobi
 
 
 ## 🛠 Skills
-react-native, react, redux, Firebase
+flutter, BLoc & Riverpod, Firebase
