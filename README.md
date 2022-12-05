@@ -8,7 +8,7 @@
   - ⚽️  Arsenal FC
   - 🔗  flutter
   - 📺  Movie & Series
-- 🌱 I’m currently learning react-native and firebase
+- 🌱 I’m currently learning flutter & firebase
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : developpeur.olive@gmail.com
 
