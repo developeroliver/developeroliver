@@ -6,9 +6,9 @@
   - 💥  Star Wars
   - 🎮  PS4 gaming
   - ⚽️  Arsenal FC
-  - 🔗  flutter
+  - 🔗  react-native
   - 📺  Movie & Series
-- 🌱 I’m currently learning flutter, bloc & firebase
+- 🌱 I’m currently learning react-native, redux & firebase
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : developpeur.olive@gmail.com
 
@@ -26,4 +26,4 @@ I am in professional reconversion. I did a bootcamp at o'clock as a web and mobi
 
 
 ## 🛠 Skills
-flutter, bloc & Firebase.
+react-native, redux & Firebase.
