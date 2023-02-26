@@ -8,7 +8,7 @@
   - ⚽️  Arsenal FC
   - 🔗  react-native
   - 📺  Movie & Series
-- 🌱 I’m currently learning react-native, redux & firebase
+- 🌱 I’m currently learning react-native, redux, firebase & node
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : developpeur.olive@gmail.com
 
@@ -26,4 +26,4 @@ I am in professional reconversion. I did a bootcamp at o'clock as a web and mobi
 
 
 ## 🛠 Skills
-react-native, redux & Firebase.
+react-native, redux, Firebase & node.
