@@ -1,16 +1,16 @@
-# 👋 Hi, I’m @developpeur.olive as Oliver
+# 👋 Hi, I’m @developpeurolive.ios as Oliver
 - a mobile developer
 - 👀 I’m interested in 
   - 👨🏼‍🎨  Design
   - 📲  Mobile apps
   - 💥  Star Wars
-  - 🎮  PS4 gaming
+  - 🎮  PS5 gaming
   - ⚽️  Arsenal FC
-  - 🔗  react-native
+  - 🔗  Swift and SwiftUI
   - 📺  Movie & Series
-- 🌱 I’m currently learning react-native, redux, firebase & node
+- 🌱 I’m currently learning Swift, SwiftUI & firebase 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : developpeur.olive@gmail.com
+- 📫 How to reach me : developpeurolive.ios@gmail.com
 
 
 
@@ -26,4 +26,4 @@ I am in professional reconversion. I did a bootcamp at o'clock as a web and mobi
 
 
 ## 🛠 Skills
-react-native, redux, Firebase & node.
+Swift, SwiftUI, Firebase & Figma.
