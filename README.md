@@ -16,10 +16,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : [developpeurolive.ios@gmail.com](mailto:developpeurolive.ios@gmail.com)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=NatashaB-randao&show_icons=true&count_private=true&hide_border=true&title_color=8B008B&icon_color=8B008B&text_color=c9d1d9&bg_color=0d1117" alt="Natasha Brandão github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatashaB-randao&layout=compact&hide_border=true&title_color=8B008B&text_color=8B008B&bg_color=0d1117" />
-</div>
+![api](https://user-images.githubusercontent.com/92441827/231529579-ebf7b193-25ad-47ea-bd9f-8654406a451d.svg)
+
 
 [https://github-readme-stats.vercel.app/api?username=developeroliver&show_icons=true&theme=react](https://github-readme-stats.vercel.app/api?username=developeroliver&show_icons=true&theme=react)
 
