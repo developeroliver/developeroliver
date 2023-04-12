@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
 
 # 👋 Hi, I’m @developpeurolive.ios as Oliver
@@ -16,7 +16,12 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : [developpeurolive.ios@gmail.com](mailto:developpeurolive.ios@gmail.com)
 
-![api](https://user-images.githubusercontent.com/92441827/231529579-ebf7b193-25ad-47ea-bd9f-8654406a451d.svg)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=developeroliver&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" alt="Olivier Geiger github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developeroliver&layout=compact&hide_border=true&title_color=1E90FF&text_color=1E90FF&bg_color=0d1117" />
+</div>
+
 
 
 ## 🚀 About Me
@@ -31,4 +36,4 @@ I am in professional reconversion. I did a bootcamp at o'clock as a web and mobi
 
 Swift, SwiftUI, Core Data, Combine, Firebase & Figma.
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
