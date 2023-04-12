@@ -30,6 +30,9 @@ I am in professional reconversion. I did a bootcamp at o'clock as a web and mobi
 
 [https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)
 
+### Currently studying:
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+
 ## 🛠 Skills
 
 Swift, SwiftUI, Firebase & Figma.
