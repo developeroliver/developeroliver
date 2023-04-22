@@ -34,6 +34,6 @@ I am in professional reconversion. I did a bootcamp at o'clock as a web and mobi
 
 ## 🛠 Skills
 
-Swift, SwiftUI, Core Data, Combine, Firebase & Figma.
+Swift, UILit programmatically, SwiftUI, Core Data, Combine, Firebase & Figma.
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
