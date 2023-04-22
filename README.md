@@ -31,11 +31,11 @@ I am in professional reconversion. I did a bootcamp at o'clock as a web and mobi
 
 ### Currently studying:
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![UIKit](https://img.shields.io/badge/UIKit-2986cc?style=for-the-badge&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Core Data](https://img.shields.io/badge/Core Date-0b5394?style=for-the-badge&logo=swift&logoColor=white)
-![Combine](https://img.shields.io/badge/Combine-38761d?style=for-the-badge&logo=swift&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffd966?style=for-the-badge&logo=swift&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-2986cc?style=for-the-badge&logo=UIKit&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swiftUI&logoColor=white)
+![Core Data](https://img.shields.io/badge/Core-Date-0b5394?style=for-the-badge&logo=CoreData&logoColor=white)
+![Combine](https://img.shields.io/badge/Combine-38761d?style=for-the-badge&logo=Combine&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffd966?style=for-the-badge&logo=Firebase&logoColor=white)
 
 
 
