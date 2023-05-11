@@ -2,16 +2,17 @@
 
 # 👋 Hi, I’m @developpeurolive.ios as Oliver
 
-- a mobile developer
+- a iOS developer
 - 👀 I’m interested in
     - 👨🏼‍🎨 Design
     - 📲 Mobile apps
+    - 💻 Apple
     - 💥 Star Wars
     - 🎮 PS5 gaming
     - ⚽️ Arsenal FC
-    - 🔗 Swift and SwiftUI
+    - 🔗 Swift, UIKit and SwiftUI
     - 📺 Movie & Series
-- 🌱 I’m currently learning Swift, SwiftUI & firebase
+- 🌱 I’m currently learning Swift, UIKit, SwiftUI & firebase
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : [developpeurolive.ios@gmail.com](mailto:developpeurolive.ios@gmail.com)
 
