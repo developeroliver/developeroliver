@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
-# 👋 Hi, I’m @developpeurolive.ios as Oliver
+# 👋 Hi, I’m @developpeur.olive as Oliver
 
 - a iOS developer
 - 👀 I’m interested in
@@ -10,11 +10,11 @@
     - 💥 Star Wars
     - 🎮 PS5 gaming
     - ⚽️ Arsenal FC
-    - 🔗 Swift, UIKit and SwiftUI
+    - 🔗 Flutter, Riverpod and Firebase
     - 📺 Movie & Series
-- 🌱 I’m currently learning Swift, UIKit, SwiftUI & firebase
+- 🌱 I’m currently learning Flutter, Riverpod & firebase
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : [developpeurolive.ios@gmail.com](mailto:developpeurolive.ios@gmail.com)
+- 📫 How to reach me : [flutter.code.master@gmail.com](mailto:flutter.code.master@gmail.com)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=developeroliver&theme=dark&hide_border=false&include_all_commits=true&count_private=true) 
