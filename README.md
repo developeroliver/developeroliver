@@ -10,11 +10,11 @@
     - 💥 Star Wars
     - 🎮 PS5 gaming
     - ⚽️ Arsenal FC
-    - 🔗 Flutter, Riverpod and Firebase
+    - 🔗 SwiftUI, Core Data, Swift Data, Combine and Firebase
     - 📺 Movie & Series
-- 🌱 I’m currently learning Flutter, Riverpod & firebase
+- 🌱 I’m currently learning SwiftUI
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : [flutter.code.master@gmail.com](mailto:flutter.code.master@gmail.com)
+- 📫 How to reach me : [developpeurolive.iosr@gmail.com](mailto:developpeurolive.ios@gmail.com)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=developeroliver&theme=dark&hide_border=false&include_all_commits=true&count_private=true) 
@@ -40,7 +40,7 @@ I am in professional reconversion. I did a bootcamp at o'clock as a web and mobi
 
 ## 🛠 Skills
 
-flutter, riverpod, Firebase & Figma.
+SwiftUI, Core Data, Swift Data, Combine, Firebase, Figma and Sketch.
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
 
