@@ -8,13 +8,13 @@
     - 📲 Mobile apps
     - 💻 Apple
     - 💥 Star Wars
-    - 🎮 PS5 gaming
+    - 🎮 Xbox & PS5 gaming
     - ⚽️ Arsenal FC
-    - 🔗 SwiftUI, Core Data, Swift Data, Combine and Firebase
+    - 🔗 UIKit, SwiftUI, Core Data, Swift Data, Combine and Firebase
     - 📺 Movie & Series
-- 🌱 I’m currently learning SwiftUI
+- 🌱 I’m currently learning UIKit & SwiftUI
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : [developpeurolive.iosr@gmail.com](mailto:developpeurolive.ios@gmail.com)
+- 📫 How to reach me : [developpeur.olive@gmail.com](mailto:developpeur.olive@gmail.com)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=developeroliver&theme=dark&hide_border=false&include_all_commits=true&count_private=true) 
@@ -22,7 +22,7 @@
                                   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=developeroliver&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # 💻 Tech Stack:
-![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-ffd966?style=for-the-badge&logo=Firebase&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)  ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
+![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-ffd966?style=for-the-badge&logo=Firebase&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
 
 # 👨🏻‍💻 About Me
 
@@ -30,8 +30,8 @@ I am in professional reconversion. I did a bootcamp at o'clock as a web and mobi
 
 
 ## 📚 Currently studying:
-![UIKit](https://img.shields.io/badge/Flutter-2986cc?style=for-the-badge&logo=flutter&logoColor=white)
-![Core Data](https://img.shields.io/badge/riverpod-0b5394?style=for-the-badge&logo=riverpod&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-FF6C37?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/swiftUI-2986cc?style=for-the-badge&logo=swift&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-ffd966?style=for-the-badge&logo=Firebase&logoColor=white)
 
 
@@ -40,7 +40,7 @@ I am in professional reconversion. I did a bootcamp at o'clock as a web and mobi
 
 ## 🛠 Skills
 
-SwiftUI, Core Data, Swift Data, Combine, Firebase, Figma and Sketch.
+UIKit, SwiftUI, Core Data, Swift Data, Combine, Firebase, Figma.
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
 
