@@ -32,7 +32,7 @@ I am in professional reconversion. I did a bootcamp at o'clock as a web and mobi
 ## 📚 Currently studying:
 ![UIKit](https://img.shields.io/badge/UIKit-FF6C37?style=for-the-badge&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/swiftUI-2986cc?style=for-the-badge&logo=swift&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffd966?style=for-the-badge&logo=Firebase&logoColor=white)
+![CoreData](https://img.shields.io/badge/CoreData-ffd966?style=for-the-badge&logo=CoreData&logoColor=white)
 
 
 ## 🌐 Socials:
