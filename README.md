@@ -26,7 +26,7 @@
 
 # 👨🏻‍💻 About Me
 
-I am in professional reconversion. I did a bootcamp at o'clock as a web and mobile web developer with React specialization.
+I am in professional reconversion. I did a bootcamp at o'clock as a web and mobile web developer with React specialization.\nBut I decided to specialize in iOS mobile applications with UIKit and SwiftUI.
 
 
 ## 📚 Currently studying:
