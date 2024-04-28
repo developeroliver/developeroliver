@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
-# 👋 Hi, I’m @developpeur.olive as Oliver
+# 👋 Hi, I’m @codewitholiver as Oliver
 
 - a iOS developer
 - 👀 I’m interested in
@@ -14,7 +14,7 @@
     - 📺 Movie & Series
 - 🌱 I’m currently learning UIKit & SwiftUI
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : [developpeur.olive@gmail.com](mailto:developpeur.olive@gmail.com)
+- 📫 How to reach me : [developpeurolive.ios@gmail.com](mailto:developpeurolive.ios@gmail.com)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=developeroliver&theme=dark&hide_border=false&include_all_commits=true&count_private=true) 
