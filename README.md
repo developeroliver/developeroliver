@@ -6,7 +6,6 @@
 
 ---
 
-- a iOS developer
 - 📲 UIKit
 - 🎨 SwiftUI
 - 🎲 SpriteKit
@@ -24,12 +23,6 @@
 
 # 💻 Tech Stack:
 ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-ffd966?style=for-the-badge&logo=Firebase&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
-
-# 👨🏻‍💻 About Me
-
-I am in professional reconversion. I did a bootcamp at o'clock as a web and mobile web developer with React specialization.
-But I decided to specialize in iOS mobile applications with UIKit and SwiftUI.
-
 
 ## 📚 Currently studying:
 ![UIKit](https://img.shields.io/badge/UIKit-FF6C37?style=for-the-badge&logo=swift&logoColor=white)
