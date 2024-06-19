@@ -10,7 +10,7 @@
     - 💥 Star Wars
     - 🎮 Xbox & PS5 gaming
     - ⚽️ Arsenal FC
-    - 🔗 UIKit, SwiftUI, Core Data, Swift Data, Combine and Firebase
+    - 🔗 UIKit, SwiftUI, SpriteKit, MapKit, WidgetKit, Core Data, Swift Data, Combine and Firebase
     - 📺 Movie & Series
 - 🌱 I’m currently learning UIKit & SwiftUI
 - 💞️ I’m looking to collaborate on ...
