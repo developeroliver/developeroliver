@@ -33,8 +33,8 @@ But I decided to specialize in iOS mobile applications with UIKit and SwiftUI.
 ## 📚 Currently studying:
 ![UIKit](https://img.shields.io/badge/UIKit-FF6C37?style=for-the-badge&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/swiftUI-2986cc?style=for-the-badge&logo=swift&logoColor=white)
-![Core Data](https://img.shields.io/badge/CoreData-2986cc?style=for-the-badge&logo=CoreData&logoColor=white)
-![Swift Data](https://img.shields.io/badge/SwiftData-2986cc?style=for-the-badge&logo=SwiftData&logoColor=white)
+![CoreData](https://img.shields.io/badge/CoreData-2986cc?style=for-the-badge&logo=CoreData&logoColor=white)
+![SwiftData](https://img.shields.io/badge/SwiftData-2986cc?style=for-the-badge&logo=SwiftData&logoColor=white)
 
 
 
