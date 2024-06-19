@@ -1,20 +1,21 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
-# 👋 Hi, I’m @codewitholiver as Oliver
+# 👋 Hello, je m'appelle @codewitholiver as Oliver
+
+### 💼 **[Mon Portfolio GitHub](https://github.com/developeroliver/iOS-Developer-Portfolio)**
+
+---
 
 - a iOS developer
-- 👀 I’m interested in
-    - 👨🏼‍🎨 Design
-    - 📲 Mobile apps
-    - 💻 Apple
-    - 💥 Star Wars
-    - 🎮 Xbox & PS5 gaming
-    - ⚽️ Arsenal FC
-    - 🔗 UIKit, SwiftUI, SpriteKit, MapKit, WidgetKit, Core Data, Swift Data, Combine and Firebase
-    - 📺 Movie & Series
-- 🌱 I’m currently learning UIKit & SwiftUI
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : [codewitholiver.ios@gmail.com](mailto:codewitholiver.ios@gmail.com)
+- 📲 UIKit
+- 🎨 SwiftUI
+- 🎲 SpriteKit
+- 💽 Core Data
+- 💽 SwiftData
+- 🔥 Firebase
+- 📍 MapKit
+- ❇️ WidgetKit
+- 📫 Comment me contacter : [codewitholiver.ios@gmail.com](mailto:codewitholiver.ios@gmail.com)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=developeroliver&theme=dark&hide_border=false&include_all_commits=true&count_private=true) 
