@@ -21,10 +21,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=developeroliver&theme=dark&hide_border=false)<br/>
                                   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=developeroliver&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# 💻 Tech Stack:
+# 💻 Stack technique:
 ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-ffd966?style=for-the-badge&logo=Firebase&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  !![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
 
-## 📚 Currently studying:
+## 📚 Actuellement en cours d'étude:
 ![UIKit](https://img.shields.io/badge/UIKit-FF6C37?style=for-the-badge&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/swiftUI-2986cc?style=for-the-badge&logo=swift&logoColor=white)
 ![CoreData](https://img.shields.io/badge/CoreData-2986cc?style=for-the-badge&logo=CoreData&logoColor=white)
@@ -37,7 +37,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olivier-geiger-9a763a1b1/) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/oliviergei54595) 
 
-## 🛠 Skills
+## 🛠 Compétences
 
 UIKit, SwiftUI, SpriteKit, MapKit, WidgetKit, Core Data, Swift Data, Combine, Firebase.
 
