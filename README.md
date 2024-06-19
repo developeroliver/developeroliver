@@ -49,7 +49,8 @@ UIKit, SwiftUI, Core Data, Swift Data, Combine, Firebase.
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
 
-
+---
+[![](https://visitcount.itsvg.in/api?id=developeroliver&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
  ![Snake animation](https://github.com/joaotuliojt/joaotuliojt/blob/output/github-contribution-grid-snake.svg)
