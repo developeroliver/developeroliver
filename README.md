@@ -2,14 +2,17 @@
 
 # 👋 Salut, je m'appelle **Oliver** (@codewitholiver)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=developeroliver&show_icons=true&count_private=true&hide_border=true&title_color=8B008B&icon_color=8B008B&text_color=c9d1d9&bg_color=0d1117" alt="Oliver Geiger github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developeroliver&layout=compact&hide_border=true&title_color=8B008B&text_color=8B008B&bg_color=0d1117" />
-</div>
+## 📊 Statistiques GitHub
+
+Voici un aperçu de mes contributions sur GitHub :
+
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=developeroliver&show_icons=true&theme=blue-green)
+
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=developeroliver&layout=compact&theme=blue-green)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=developeroliver&theme=blue-green)
 
 ### 💼 **[Mon Portfolio GitHub](https://github.com/developeroliver/iOS-Developer-Portfolio)**
-
----
 
 ## 🚀 **Compétences et Technologies**
 
@@ -20,40 +23,10 @@
 - 🔥 **Firebase**
 - 📍 **MapKit**
 - ❇️ **WidgetKit**
-- 📫 **Contact** : [codewitholiver.ios@gmail.com](mailto:codewitholiver.ios@gmail.com)
+- 📫 **Contact** : [olivier.codes@gmail.com](mailto:olivier.codes@gmail.com)
 
----
-
-## 🛠 **Stack Technique**
-
-![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-ffd966?style=for-the-badge&logo=Firebase&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-
----
-
-## 📊 **GitHub Stats**
-
-<a href="https://github.com/developeroliver/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=developeroliver&show_icons=true&card_width=200&border_radius=18" />
-</a>
-<a href="https://github.com/developeroliver/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=developeroliver&layout=compact&langs_count=8&card_width=200&border_radius=18" />
-</a>
-
-<br/>
-<br/>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=developeroliver&hide_border=true&border_radius=18&date_format=M%20j%5B%2C%20Y%5D&card_width=1000)](https://git.io/streak-stats)
-
----
-
-## 📚 **Actuellement en Cours d'Étude**
-
-![UIKit](https://img.shields.io/badge/UIKit-FF6C37?style=for-the-badge&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/swiftUI-2986cc?style=for-the-badge&logo=swift&logoColor=white)
-![CoreData](https://img.shields.io/badge/CoreData-2986cc?style=for-the-badge&logo=CoreData&logoColor=white)
-![SwiftData](https://img.shields.io/badge/SwiftData-2986cc?style=for-the-badge&logo=SwiftData&logoColor=white)
-
----
+## 💻 Tech Stack:
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/swiftui-F54A2A?style=for-the-badge&logo=swift&logoColor=blue) ![UIKit](https://img.shields.io/badge/uikit-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![CoreData](https://img.shields.io/badge/CoreData-%23121011.svg?style=for-the-badge&logo=&logoColor=white) ![SwiftData](https://img.shields.io/badge/SwiftData-%23121011.svg?style=for-the-badge&logo=&logoColor=blue) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23121011.svg?style=for-the-badge&logo=&logoColor=white)
 
 ## 🌐 **Me Suivre & Me Contacter**
 
@@ -63,30 +36,17 @@
 
 ---
 
-## 💻 **Quelques Projets en Cours**
+## 💻 **Projets en Cours**
 
 ### 🚀 **[SwiftlyUI](https://github.com/developeroliver/SwiftlyUI)**
 
-Une application iOS permettant de créer des interfaces en SwiftUI avec une expérience fluide et intuitive.
+Ce **boilerplate** est une base solide pour démarrer rapidement une application iOS avec :  
+✅ **Authentification Firebase** : Connexion avec Apple Sign-In 🍏  
+✅ **SwiftData** : Stockage et gestion locale des données 📦  
+✅ **RevenueCat** : Gestion simplifiée des abonnements et paiements 💰  
 
-### 🎮 **[ConvoyChat](https://github.com/developeroliver/convoychat)**
+Le projet est conçu pour être **rapide à intégrer** et **évolutif**. 🚀  
 
-Une application de messagerie en temps réel avec une interface utilisateur moderne utilisant **Firebase**.
-
----
-
-## 🛠 **Compétences**
-
-- **UIKit**, **SwiftUI**, **SpriteKit**, **Core Data**, **SwiftData**, **Combine**, **Firebase**, **MapKit**.
-
----
-
-## 📊 **Stats GitHub**
-
-![Commits](https://img.shields.io/github/commits-since/developeroliver/SwiftlyUI/latest?label=commits)  
-![Contributions](https://img.shields.io/github/contributors/developeroliver/SwiftlyUI?label=contributors)  
-
----
 
 ## 🎉 **Merci d'Avoir Visité !**
 
