@@ -52,7 +52,5 @@ Le projet est conçu pour être **rapide à intégrer** et **évolutif**. 🚀
 
 [![](https://visitcount.itsvg.in/api?id=developeroliver&icon=0&color=0)](https://visitcount.itsvg.in)
 
----
-
 ![Snake animation](https://github.com/joaotuliojt/joaotuliojt/blob/output/github-contribution-grid-snake.svg)
 
