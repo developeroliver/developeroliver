@@ -2,60 +2,10 @@
 
 # 👋 Salut, je m'appelle **Oliver** (@codewitholiver)
 
-
-# 👋 Hello! I'm Oliver
-
-Welcome to my GitHub profile!
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=developeroliver&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=contribs)
-
-### 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=developeroliver&layout=compact&langs_count=10&hide_title=true)
-
-### 🌟 GitHub Streaks
-
-![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=developeroliver)
-
-### 🚀 Contributions
-
-![Contributions Graph](https://activity-graph.herokuapp.com/graph?username=developeroliver&theme=github)
-
-## 🏆 GitHub Achievements
-
-![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=developeroliver&row=1&column=6&no-frame=true&theme=gruvbox)
-
-## 💼 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
-## 📈 GitHub Contributions
-
-![Contribution Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=developeroliver&layout=compact&langs_count=8&theme=tokyonight)
-
-### 🔥 Stats
-
-- **Public Repositories**: ![Repo](https://img.shields.io/github/repo-size/developeroliver?style=flat-square&logo=github)
-- **Total Stars**: ![Stars](https://img.shields.io/github/stars/developeroliver?style=flat-square&logo=github)
-- **Forks**: ![Forks](https://img.shields.io/github/forks/developeroliver?style=flat-square&logo=github)
-- **Followers**: ![Followers](https://img.shields.io/github/followers/developeroliver?style=flat-square&logo=github)
-- **Following**: ![Following](https://img.shields.io/github/following/developeroliver?style=flat-square&logo=github)
-
-Feel free to reach out if you have any questions or if you would like to collaborate on a project!
-
-## 💬 Let's Chat!
-
-- [Email](mailto:your-email@example.com)
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-handle)
-
-Thank you for visiting my profile!
-
-
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=developeroliver&show_icons=true&count_private=true&hide_border=true&title_color=8B008B&icon_color=8B008B&text_color=c9d1d9&bg_color=0d1117" alt="Oliver Geiger github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developeroliver&layout=compact&hide_border=true&title_color=8B008B&text_color=8B008B&bg_color=0d1117" />
+</div>
 
 ### 💼 **[Mon Portfolio GitHub](https://github.com/developeroliver/iOS-Developer-Portfolio)**
 
