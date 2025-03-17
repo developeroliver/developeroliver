@@ -14,20 +14,18 @@
   <img src="https://github-profile-trophy.vercel.app/?username=developeroliver&theme=tokyo-nightl&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
+<div align="center">
 ## 🚀 **Compétences et Technologies**
 
-- 📲 **UIKit**  
-- 🎨 **SwiftUI**
-- 🎲 **SpriteKit**
-- 💽 **Core Data** & **SwiftData**
-- 🔥 **Firebase**
-- 📍 **MapKit**
-- ❇️ **WidgetKit**
-- 📫 **Contact** : [olivier.codes@gmail.com](mailto:olivier.codes@gmail.com)
+📲 **UIKit**  🎨 **SwiftUI**
+🎲 **SpriteKit**
+💽 **Core Data** & **SwiftData**
+🔥 **Firebase**
+📍 **MapKit**
+❇️ **WidgetKit*
+<br>
+📫 **Contact** : [olivier.codes@gmail.com](mailto:olivier.codes@gmail.com)
 
-## 💻 Tech Stack:
-
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/swiftui-F54A2A?style=for-the-badge&logo=swift&logoColor=blue) ![UIKit](https://img.shields.io/badge/uikit-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![CoreData](https://img.shields.io/badge/CoreData-%23121011.svg?style=for-the-badge&logo=&logoColor=white) ![SwiftData](https://img.shields.io/badge/SwiftData-%23121011.svg?style=for-the-badge&logo=&logoColor=blue) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23121011.svg?style=for-the-badge&logo=&logoColor=white)
 
 <div align="center">  
 <a href="https://www.linkedin.com/in/olivier-geiger-9a763a1b1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
