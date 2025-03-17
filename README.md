@@ -1,4 +1,7 @@
 <img width=100% src="https://github.com/developeroliver/iOS-Developer-Portfolio/assets/92441827/647177b6-c4a7-4a82-9e91-c47a9ba95e98&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8B008B&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Natasha+Brandão;I+am+from+Brazil;I+am+a+Jr.+Data+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 # 👋 Salut, je m'appelle **Oliver** (@codewitholiver)
 
@@ -50,8 +53,9 @@ Le projet est conçu pour être **rapide à intégrer** et **évolutif**. 🚀
 
 ## 🎉 **Merci d'Avoir Visité !**
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{developeroliver}/count.svg" /></p> 
+<br></div>
 
-![Nombre de vues](https://komarev.com/ghpvc/?username=developeroliver&color=blue)
-
-![Snake animation](https://github.com/joaotuliojt/joaotuliojt/blob/output/github-contribution-grid-snake.svg)
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
