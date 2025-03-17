@@ -50,7 +50,8 @@ Le projet est conçu pour être **rapide à intégrer** et **évolutif**. 🚀
 
 ## 🎉 **Merci d'Avoir Visité !**
 
-[![](https://visitcount.itsvg.in/api?id=developeroliver&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![Nombre de vues](https://komarev.com/ghpvc/?username=developeroliver&color=blue)
 
 ![Snake animation](https://github.com/joaotuliojt/joaotuliojt/blob/output/github-contribution-grid-snake.svg)
 
