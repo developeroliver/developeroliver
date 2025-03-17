@@ -1,7 +1,7 @@
 <img width=100% src="https://github.com/developeroliver/iOS-Developer-Portfolio/assets/92441827/647177b6-c4a7-4a82-9e91-c47a9ba95e98&height=120&section=header"/>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8B008B&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Natasha+Brandão;I+am+from+Brazil;I+am+a+Jr.+Data+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Bonjour,+je+m'appelle+Olivier+Geiger;Je+suis+développeur+iOS;Soyez+les+bienvenues!+:%29)](https://git.io/typing-svg)
 
 # 👋 Salut, je m'appelle **Oliver** (@codewitholiver)
 
