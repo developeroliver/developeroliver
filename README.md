@@ -30,7 +30,7 @@
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/swiftui-F54A2A?style=for-the-badge&logo=swift&logoColor=blue) ![UIKit](https://img.shields.io/badge/uikit-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![CoreData](https://img.shields.io/badge/CoreData-%23121011.svg?style=for-the-badge&logo=&logoColor=white) ![SwiftData](https://img.shields.io/badge/SwiftData-%23121011.svg?style=for-the-badge&logo=&logoColor=blue) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23121011.svg?style=for-the-badge&logo=&logoColor=white)
 
 <div align="center">  
-<a href="[[https://www.linkedin.com/in/olivier-geiger-9a763a1b1/]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/olivier-geiger-9a763a1b1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 <a href="[(https://github.com/developeroliver/iOS-Developer-Portfolio)]" target="_blank"><img src="https://img.shields.io/badge/Portfolio iOS Developer-1E90FF?style=for-the-badge&logo=Portfolio%20Data&logoColor=ffffff"></a>
 <a href="https://instagram.com/codewitholiver?igshid=NGVhN2U2NjQ0Yg==" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 
