@@ -14,8 +14,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=developeroliver&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-### 💼 **[Mon Portfolio GitHub](https://github.com/developeroliver/iOS-Developer-Portfolio)**
-
 ## 🚀 **Compétences et Technologies**
 
 - 📲 **UIKit**  
@@ -33,7 +31,7 @@
 
 <div align="center">  
 <a href="[[https://www.linkedin.com/in/natasha-brandão/]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-<a href="[(https://github.com/developeroliver/iOS-Developer-Portfolio)]" target="_blank"><img src="https://img.shields.io/badge/Portfolio iOS Developer-4CAF50?style=for-the-badge&logo=Portfolio%20Data&logoColor=ffffff"></a>
+<a href="[(https://github.com/developeroliver/iOS-Developer-Portfolio)]" target="_blank"><img src="https://img.shields.io/badge/Portfolio iOS Developer-1E90FF?style=for-the-badge&logo=Portfolio%20Data&logoColor=ffffff"></a>
 <a href="https://instagram.com/codewitholiver?igshid=NGVhN2U2NjQ0Yg==" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 
 
