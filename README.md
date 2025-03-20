@@ -22,8 +22,9 @@
 </p>
 
 
-
-
+<br>
+<br>
+<br>
 
 <div align="center">
 ## 🚀 **Compétences et Technologies**
@@ -34,9 +35,14 @@
 🔥 **Firebase**
 📍 **MapKit**
 ❇️ **WidgetKit*
+
 <br>
+<br>
+
 📫 **Contact** : [olivier.codes@gmail.com](mailto:olivier.codes@gmail.com)
 
+<br>
+<br>
 
 <div align="center">  
 <a href="https://www.linkedin.com/in/olivier-geiger-9a763a1b1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
