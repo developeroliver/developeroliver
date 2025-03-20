@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=developeroliver&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=1E90FF&bg_color=0d1117" alt="Olivier Gegier github stats" /> 
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=developeroliver&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=1E90FF&bg_color=0d1117" alt="Olivier Gegier github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developeroliver&layout=compact&hide_border=true&title_color=1E90FF&text_color=1E90FF&bg_color=0d1117" />
 </div>
 <p align="center">
@@ -29,12 +29,17 @@
 <div align="center">
 ## 🚀 **Compétences et Technologies**
 
-📲 **UIKit**  🎨 **SwiftUI**
-🎲 **SpriteKit**
-💽 **Core Data** & **SwiftData**
-🔥 **Firebase**
-📍 **MapKit**
-❇️ **WidgetKit*
+<div align="center">
+<h2>🚀 Compétences et Technologies</h2>
+📲 <b>UIKit</b>  🎨 <b>SwiftUI</b><br>
+🎲 <b>SpriteKit</b><br>
+💽 <b>Core Data</b> & <b>SwiftData</b><br>
+🔥 <b>Firebase</b><br>
+💰 <b>RevenueCat</b><br>
+🏗️ <b>MVVM modulaire</b><br>
+📍 <b>MapKit</b><br>
+❇️ <b>WidgetKit</b>
+</div>
 
 <br>
 <br>
