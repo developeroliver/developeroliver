@@ -27,9 +27,6 @@
 <br>
 
 <div align="center">
-## 🚀 **Compétences et Technologies**
-
-<div align="center">
 <h2>🚀 Compétences et Technologies</h2>
 📲 <b>UIKit</b>  🎨 <b>SwiftUI</b><br>
 🎲 <b>SpriteKit</b><br>
