@@ -18,6 +18,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=developeroliver&background=0D1117&border=0D1117&ring=3DDC84&fire=3DDC84&currStreakNum=3DDC84&sideNums=3DDC84&currStreakLabel=3DDC84&sideLabels=3DDC84&dates=3DDC84)](https://git.io/streak-stats)
 
+![Heatmap](https://ssr-contributions-svg.vercel.app/_/developeroliver?format=svg&weeks=52&gap=3&flatten=2&bg=0d1117&c0=1a1a2e&c1=0e4429&c2=006d32&c3=26a641&c4=3DDC84)
+
 ![Contribution Calendar](https://github-readme-activity-graph.vercel.app/graph?username=developeroliver&bg_color=0d1117&color=3DDC84&line=3DDC84&point=3DDC84&area=true&hide_border=true)
 
 </div>
