@@ -13,7 +13,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=developeroliver&background=0D1117&border=0D1117&ring=3DDC84&fire=3DDC84&currStreakNum=3DDC84&sideNums=3DDC84&currStreakLabel=3DDC84&sideLabels=3DDC84&dates=3DDC84)](https://git.io/streak-stats)
 
-![Contribution Calendar](https://github-readme-activity-graph.vercel.app/graph?username=developeroliver&bg_color=000000&color=3DDC84&line=3DDC84&point=3DDC84&area=true&hide_border=true&hide_title=true)
+![Contribution Calendar](https://github-readme-activity-graph.vercel.app/graph?username=developeroliver&bg_color=0d1117&color=3DDC84&line=3DDC84&point=3DDC84&area=true&hide_border=true&hide_title=true&custom_title=)
 
 </div>
 
@@ -81,7 +81,7 @@
 
 <div align="center">
 <br/><p align="center"><b>Visitors Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/{developeroliver}/count.svg" /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=developeroliver&color=3DDC84&style=for-the-badge&label=VISITORS" /></p>
 <br/>
 </div>
 
