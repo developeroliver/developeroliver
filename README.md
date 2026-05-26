@@ -10,13 +10,10 @@
 
 <div align="center">
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developeroliver&theme=github_dark)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=developeroliver&background=0D1117&border=0D1117&ring=3DDC84&fire=3DDC84&currStreakNum=3DDC84&sideNums=3DDC84&currStreakLabel=3DDC84&sideLabels=3DDC84&dates=3DDC84)](https://git.io/streak-stats)
 
-![Heatmap](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=developeroliver&theme=github_dark&utcOffset=1)
-
-![Contribution Calendar](https://github-readme-activity-graph.vercel.app/graph?username=developeroliver&bg_color=0d1117&color=3DDC84&line=3DDC84&point=3DDC84&area=true&hide_border=true)
+![Contribution Calendar](https://github-readme-activity-graph.vercel.app/graph?username=developeroliver&bg_color=000000&color=3DDC84&line=3DDC84&point=3DDC84&area=true&hide_border=true&hide_title=true)
 
 </div>
 
@@ -24,10 +21,6 @@
   <img width="45%" height="195px" src="https://github-readme-stats-fast.vercel.app/api?username=developeroliver&show_icons=true&count_private=true&hide_border=true&title_color=3DDC84&icon_color=3DDC84&text_color=3DDC84&bg_color=0d1117" alt="Olivier Geiger github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=developeroliver&layout=compact&hide_border=true&title_color=3DDC84&text_color=3DDC84&bg_color=0d1117" />
 </div>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=developeroliver&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
 
 <br/><br/>
 
