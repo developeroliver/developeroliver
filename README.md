@@ -6,6 +6,10 @@
 
 <br/>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/developeroliver-(codewitholivier%20as%20Oliver)-3DDC84?style=for-the-badge&logo=github&logoColor=white"/>
+</div>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3DDC84&size=35&center=true&vCenter=true&width=1000&lines=Bonjour,+je+m'appelle+Olivier+Geiger;Je+suis+développeur+Kotlin+KMP;Backend+Spring+Boot;Bienvenue!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
@@ -14,13 +18,13 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=developeroliver&background=0D1117&border=0D1117&ring=3DDC84&fire=3DDC84&currStreakNum=3DDC84&sideNums=3DDC84&currStreakLabel=3DDC84&sideLabels=3DDC84&dates=3DDC84)](https://git.io/streak-stats)
 
-![Contribution Calendar](https://ghchart.rshah.org/3DDC84/developeroliver)
+![Contribution Calendar](https://github-readme-activity-graph.vercel.app/graph?username=developeroliver&bg_color=0d1117&color=3DDC84&line=3DDC84&point=3DDC84&area=true&hide_border=true)
 
 </div>
 
 <div align="center">  
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=developeroliver&show_icons=true&count_private=true&hide_border=true&title_color=3DDC84&icon_color=3DDC84&text_color=3DDC84&bg_color=0d1117&cache_seconds=86400" alt="Olivier Geiger github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developeroliver&layout=compact&hide_border=true&title_color=3DDC84&text_color=3DDC84&bg_color=0d1117&cache_seconds=86400" />
+  <img width="45%" height="195px" src="https://github-readme-stats-fast.vercel.app/api?username=developeroliver&show_icons=true&count_private=true&hide_border=true&title_color=3DDC84&icon_color=3DDC84&text_color=3DDC84&bg_color=0d1117" alt="Olivier Geiger github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=developeroliver&layout=compact&hide_border=true&title_color=3DDC84&text_color=3DDC84&bg_color=0d1117" />
 </div>
 
 <p align="center">
